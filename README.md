@@ -1,6 +1,4 @@
 # Python Practice Questions
-
-- Welcome to Python Practice Questions Repository!
   
 - Here, you'll find notebooks containing solutions to various Basic Python Problems related to loops, sets, lists, tuples, strings, and more.
 
@@ -35,6 +33,10 @@ The repository is organized into folders based on different Python concepts. The
 - `Python I/O` : Notebooks covering concept of File Handling.
 
 Each folder contains Jupyter notebooks (.ipynb) for each Python Concept.
+
+## Notebook List
+
+Here is a list of Jupyter notebooks included in this repository :
 
 ## Getting Started
 
