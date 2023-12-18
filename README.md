@@ -10,9 +10,10 @@
 
 1. [Introduction](#introduction)
 2. [Folder Structure](#folder-structure)
-3. [Getting Started](#getting-started)
-4. [Contributions](#contributions)
-5. [License](#license)
+3. [Notebook List](#notebook-list)
+4. [Getting Started](#getting-started)
+5. [Contributions](#contributions)
+6. [License](#license)
 
 ## Introduction
 
