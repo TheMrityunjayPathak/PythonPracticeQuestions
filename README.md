@@ -30,7 +30,7 @@ The repository is organized into folders based on different Python concepts. The
 - `Tuples` : Notebooks exploring tuple-related problems.
 - `Strings` : Notebooks demonstrating string manipulation and operations.
 - `Dictionary` : Notebooks containing questions related to creation and manipulation of Dictionaries.
-- `Python I/O` : Notebooks covering concept of File Handling.
+- `Python I-O` : Notebooks covering concept of File Handling.
 
 Each folder contains Jupyter notebooks (.ipynb) for each Python Concept.
 
@@ -39,7 +39,7 @@ Each folder contains Jupyter notebooks (.ipynb) for each Python Concept.
 Here is a list of Jupyter notebooks included in this repository :
 
 - [25 Basic Python Questions with Solutions 🐍](https://www.kaggle.com/code/themrityunjaypathak/25-basic-python-questions-with-solutions)
-- [25 Python I/O Questions with Solutions 🐍](https://www.kaggle.com/code/themrityunjaypathak/25-python-i-o-questions-with-solutions)
+- [25 Python I-O Questions with Solutions 🐍](https://www.kaggle.com/code/themrityunjaypathak/25-python-i-o-questions-with-solutions)
 - [25 Python Loop Questions with Solutions 🐍](https://www.kaggle.com/code/themrityunjaypathak/25-python-loop-questions-with-solutions)
 - [25 Python String Questions with Solutions 🐍](https://www.kaggle.com/code/themrityunjaypathak/25-python-string-questions-with-solutions)
 - [25 Python List Questions with Solutions 🐍](https://www.kaggle.com/code/themrityunjaypathak/25-python-list-questions-with-solutions)
