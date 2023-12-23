@@ -44,8 +44,10 @@ Basic Python
 Python I-O
 - [25 Python I-O Questions with Solutions](https://www.kaggle.com/code/themrityunjaypathak/25-python-i-o-questions-with-solutions)
 
-  
+Loops
 - [25 Python Loop Questions with Solutions](https://www.kaggle.com/code/themrityunjaypathak/25-python-loop-questions-with-solutions)
+
+
 - [25 Python String Questions with Solutions](https://www.kaggle.com/code/themrityunjaypathak/25-python-string-questions-with-solutions)
 - [25 Python List Questions with Solutions](https://www.kaggle.com/code/themrityunjaypathak/25-python-list-questions-with-solutions)
 - [25 Python Dictionary Questions with Solutions](https://www.kaggle.com/code/themrityunjaypathak/25-python-dictionary-questions-with-solutions)
