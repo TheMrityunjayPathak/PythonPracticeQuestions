@@ -38,29 +38,21 @@ Each folder contains Jupyter notebooks (.ipynb) for each Python Concept.
 
 Here is a list of Jupyter notebooks included in this repository :
 
-Basic Python
-- [25 Basic Python Questions with Solutions](https://www.kaggle.com/code/themrityunjaypathak/25-basic-python-questions-with-solutions)
+Basic Python : [Click Here](https://www.kaggle.com/code/themrityunjaypathak/25-basic-python-questions-with-solutions)
   
-Python I-O
-- [25 Python I-O Questions with Solutions](https://www.kaggle.com/code/themrityunjaypathak/25-python-i-o-questions-with-solutions)
+Python I-O : [Click Here](https://www.kaggle.com/code/themrityunjaypathak/25-python-i-o-questions-with-solutions)
 
-Loops
-- [25 Python Loop Questions with Solutions](https://www.kaggle.com/code/themrityunjaypathak/25-python-loop-questions-with-solutions)
+Loops : [Click Here](https://www.kaggle.com/code/themrityunjaypathak/25-python-loop-questions-with-solutions)
 
-Strings
-- [25 Python String Questions with Solutions](https://www.kaggle.com/code/themrityunjaypathak/25-python-string-questions-with-solutions)
+Strings : [Click Here](https://www.kaggle.com/code/themrityunjaypathak/25-python-string-questions-with-solutions)
 
-List
-- [25 Python List Questions with Solutions](https://www.kaggle.com/code/themrityunjaypathak/25-python-list-questions-with-solutions)
+List : [Click Here](https://www.kaggle.com/code/themrityunjaypathak/25-python-list-questions-with-solutions)
 
-Dictionary 
-- [25 Python Dictionary Questions with Solutions](https://www.kaggle.com/code/themrityunjaypathak/25-python-dictionary-questions-with-solutions)
+Dictionary : [Click Here](https://www.kaggle.com/code/themrityunjaypathak/25-python-dictionary-questions-with-solutions)
 
-Tuple
-- [25 Python Tuple Questions with Solutions](https://www.kaggle.com/code/themrityunjaypathak/25-python-tuple-questions-with-solutions)
+Tuple : [Click Here](https://www.kaggle.com/code/themrityunjaypathak/25-python-tuple-questions-with-solutions)
 
-Sets
-- [25 Python Sets Questions with Solutions](https://www.kaggle.com/code/themrityunjaypathak/25-python-sets-questions-with-solutions)
+Sets : [Click Here](https://www.kaggle.com/code/themrityunjaypathak/25-python-sets-questions-with-solutions)
 
 ## Getting Started
 
