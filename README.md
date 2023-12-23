@@ -24,7 +24,7 @@
 The repository is organized into folders based on different Python concepts. The folder structure is as follows :
 
 - `Basic Python` : Notebooks with basic Python programming questions.
-- `Loops` : Notebooks focusing on loop-related problems.
+- `Loops Questions` : Notebooks focusing on loop-related problems.
 - `Sets` : Notebooks containing exercises related to sets in Python.
 - `Lists` : Notebooks covering list manipulation and usage.
 - `Tuples` : Notebooks exploring tuple-related problems.
