@@ -28,7 +28,7 @@ The repository is organized into folders based on different Python concepts. The
 - `Sets Questions` : Notebooks containing exercises related to sets in Python.
 - `List Questions` : Notebooks covering list manipulation and usage.
 - `Tuple Questions` : Notebooks exploring tuple-related problems.
-- `Strings` : Notebooks demonstrating string manipulation and operations.
+- `Strings Questions` : Notebooks demonstrating string manipulation and operations.
 - `Dictionary Questions` : Notebooks containing questions related to creation and manipulation of Dictionaries.
 - `Python I-O` : Notebooks covering concept of File Handling.
 
