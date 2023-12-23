@@ -56,8 +56,10 @@ List
 Dictionary 
 - [25 Python Dictionary Questions with Solutions](https://www.kaggle.com/code/themrityunjaypathak/25-python-dictionary-questions-with-solutions)
 
-
+Tuple
 - [25 Python Tuple Questions with Solutions](https://www.kaggle.com/code/themrityunjaypathak/25-python-tuple-questions-with-solutions)
+
+
 - [25 Python Sets Questions with Solutions](https://www.kaggle.com/code/themrityunjaypathak/25-python-sets-questions-with-solutions)
 
 ## Getting Started
