@@ -38,8 +38,13 @@ Each folder contains Jupyter notebooks (.ipynb) for each Python Concept.
 
 Here is a list of Jupyter notebooks included in this repository :
 
+Basic Python
 - [25 Basic Python Questions with Solutions](https://www.kaggle.com/code/themrityunjaypathak/25-basic-python-questions-with-solutions)
+  
+
 - [25 Python I-O Questions with Solutions](https://www.kaggle.com/code/themrityunjaypathak/25-python-i-o-questions-with-solutions)
+
+  
 - [25 Python Loop Questions with Solutions](https://www.kaggle.com/code/themrityunjaypathak/25-python-loop-questions-with-solutions)
 - [25 Python String Questions with Solutions](https://www.kaggle.com/code/themrityunjaypathak/25-python-string-questions-with-solutions)
 - [25 Python List Questions with Solutions](https://www.kaggle.com/code/themrityunjaypathak/25-python-list-questions-with-solutions)
