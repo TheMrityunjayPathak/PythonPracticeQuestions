@@ -30,7 +30,7 @@ The repository is organized into folders based on different Python concepts. The
 - `Tuple Questions` : Notebooks exploring tuple-related problems.
 - `Strings Questions` : Notebooks demonstrating string manipulation and operations.
 - `Dictionary Questions` : Notebooks containing questions related to creation and manipulation of Dictionaries.
-- `Python I-O` : Notebooks covering concept of File Handling.
+- `Python I-O Questions` : Notebooks covering concept of File Handling.
 
 Each folder contains Jupyter notebooks (.ipynb) for each Python Concept.
 
